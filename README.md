@@ -12,7 +12,7 @@
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_LINK_HERE">
+<a href="https://pranay-gottimukula.github.io/portfolio-website/">
   <img src="https://img.shields.io/badge/%E2%96%BA_PORTAL-LIVE_SYSTEM-%2390EE90?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" />
 </a>
 &nbsp;
