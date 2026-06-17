@@ -20,18 +20,17 @@
 ### 📈 GitHub Tracker & Achievements
 <div align="center">
   <!-- Dynamic GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=90ee90&icon_color=90ee90&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay-Gottimukula&show_icons=true&theme=transparent&title_color=90ee90&icon_color=90ee90&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub Stats" />
   <!-- Dynamic Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=90ee90&icon_color=90ee90&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-Gottimukula&layout=compact&theme=transparent&title_color=90ee90&icon_color=90ee90&text_color=c9d1d9" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 
 ### 🏆 Featured Projects
-* **Flash-Buy Engine:** A high-concurrency e-commerce architecture designed to handle massive simultaneous traffic efficiently.
-* **Asset Discovery & Mapping:** A networking tool built to discover and map IP addresses of connected devices on a local network.
-* **Smart City DBMS:** A comprehensive database management system built with Next.js, Node.js, and MySQL.
+* **Flash-Sale Engine:** A high-concurrency e-commerce architecture designed to handle massive simultaneous traffic efficiently.
 * **TPC Portal:** Developed frontend features and resolved bugs for a university training and placement platform.
+* **Smart City DBMS:** A comprehensive database management system built with Next.js, Node.js, and MySQL.
 
 ---
 
