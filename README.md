@@ -1,42 +1,70 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0ZWF4b3F4NnA4Z21rYXY0Yno2Z21xdGJxdHRpOGhqZ2Y5ZXoxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H7ZroEeuX5uXm/giphy.gif" width="100%" alt="Cyberpunk Terminal Boot Sequence"/>
+</p>
+
 <div align="center">
-  <h1 style="color: #90EE90;">Hi there, I'm Pranay Gottimukula 👋</h1>
-  <p><b>Full-Stack Developer | AI/ML Explorer | CSE @ IIT Indore</b></p>
+  <h1><code>[ PRANAY_GOTTIMUKULA ]</code></h1>
+  <p><strong><kbd>IIT INDORE</kbd> // <kbd>FULL-STACK ARCHITECT</kbd> // <kbd>AI EXPLORER</kbd></strong></p>
+  
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VIEW_LIVE_SYSTEM-%2390EE90?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-* 🎓 Computer Science and Engineering student building scalable web applications and exploring intelligent systems.
-* 💻 **Current Focus:** High-concurrency architectures (like my Flash-Buy engine) and AI integrations (Agentic RAG, LLMs).
-* 🛠️ **Hackathons & Open Source:** Recently built AI solutions for the Bharat Bricks Hackathon and actively contributing to open-source projects via PRs.
-* 🎵 **Beyond Code:** When I'm not in VS Code or Cursor on my Linux machine, you'll find me producing melodic and hip-hop tracks on FL Studio, or analyzing stock market trends.
+### 🟢 `SYSTEM.LOG`
+> *"Architecture dictates performance. Concurrency is not an afterthought."*
 
-### 🚀 Tech Stack
-* **Frontend:** React, Next.js
-* **Backend:** Node.js, Express.js, Prisma ORM, C++
-* **AI & Data:** LLMs, Retrieval-Augmented Generation (RAG), Databricks, MySQL
-* **Tools & Environment:** Linux, Git, Postman
+- **CORE.DEV:** Architecting high-concurrency e-commerce systems and robust full-stack applications.
+- **INTELLIGENCE:** Implementing Agentic RAG, LLM integrations, and intelligent data pipelines.
+- **ENVIRONMENT:** Strict Linux environment, optimized workflows via Cursor & Antigravity AI.
+- **AUXILIARY:** Sound design synthesis (FL Studio) and algorithmic market analysis.
 
-### 📈 GitHub Tracker & Achievements
+---
+
+### 🔋 `TECH_STACK.EXE`
+
+<p align="left">
+  <code><strong>FRONTEND:</strong></code><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" /><br>
+  <code><strong>BACKEND_&_SYS:</strong></code><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,cpp,linux" /><br>
+  <code><strong>TOOLS_&_AI:</strong></code><br>
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,docker,bash" />
+</p>
+
+---
+
+### 📡 `LIVE_TELEMETRY`
+<!-- Tracking Total PRs, Contributions, and Language Splits -->
 <div align="center">
-  <!-- Dynamic GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay-Gottimukula&show_icons=true&theme=transparent&title_color=90ee90&icon_color=90ee90&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub Stats" />
-  <!-- Dynamic Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-Gottimukula&layout=compact&theme=transparent&title_color=90ee90&icon_color=90ee90&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay-Gottimukula&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=90ee90&icon_color=90ee90&text_color=a9b2c3&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-Gottimukula&layout=compact&theme=dark&hide_border=true&title_color=90ee90&text_color=a9b2c3&bg_color=0d1117" width="48%" />
 </div>
 
 <br/>
 
-### 🏆 Featured Projects
-* **Flash-Sale Engine:** A high-concurrency e-commerce architecture designed to handle massive simultaneous traffic efficiently.
-* **TPC Portal:** Developed frontend features and resolved bugs for a university training and placement platform.
-* **Smart City DBMS:** A comprehensive database management system built with Next.js, Node.js, and MySQL.
+<!-- Tracking Daily Commit Streaks -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay-Gottimukula&theme=dark&hide_border=true&fire=90ee90&ring=90ee90&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=90ee90&dates=a9b2c3&background=0d1117" width="100%" />
+</div>
+
+<br/>
+
+<!-- Real-Time Activity Graph Tracking PRs and Commits over time -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay-Gottimukula&theme=github-dark&hide_border=true&area=true&color=90ee90&line=90ee90&point=ffffff" width="100%" />
+</div>
 
 ---
 
+### ⚙️ `ACTIVE_MODULES`
 <div align="center">
-  <p><i>Let's connect and build something awesome!</i></p>
-  <!-- Add your social links below -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%2390EE90.svg?logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-%2390EE90.svg?logo=gmail&logoColor=black" alt="Email" /></a>
+  <a href="https://github.com/Pranay-Gottimukula/flash-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranay-Gottimukula&repo=flash-engine&theme=dark&hide_border=true&title_color=90ee90&icon_color=90ee90&text_color=a9b2c3&bg_color=0d1117" width="48%" />
+  </a>
+  <a href="https://github.com/Pranay-Gottimukula/tpc-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranay-Gottimukula&repo=tpc-backend&theme=dark&hide_border=true&title_color=90ee90&icon_color=90ee90&text_color=a9b2c3&bg_color=0d1117" width="48%" />
+  </a>
 </div>
