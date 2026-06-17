@@ -70,13 +70,6 @@ $ cat /proc/stack --list-modules
 $ fetch --endpoint=github/metrics --user=Pranay-Gottimukula
 ```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranay-Gottimukula&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&title_color=90ee90&icon_color=90ee90&text_color=a9b2c3&bg_color=0d1117&show=prs_merged,prs_merged_percentage" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-Gottimukula&layout=compact&theme=dark&hide_border=true&title_color=90ee90&text_color=a9b2c3&bg_color=0d1117" width="48%" />
-
-</div>
-
 <br/>
 
 <div align="center">
