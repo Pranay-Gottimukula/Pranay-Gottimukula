@@ -41,8 +41,6 @@ $ whoami --verbose
 ```
 [●] CORE.DEV     ──▶  Architecting high-concurrency e-commerce systems & robust full-stack apps
 [●] INTELLIGENCE ──▶  Agentic RAG, LLM integrations, intelligent data pipelines
-[●] ENVIRONMENT  ──▶  Strict Linux, optimized via Cursor & Antigravity AI
-[●] AUXILIARY    ──▶  Sound design synthesis (FL Studio) + algorithmic market analysis
 [●] STATUS       ──▶  ONLINE & DEPLOYING
 ```
 
