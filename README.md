@@ -1,10 +1,12 @@
 <div align="center">
 
-<!-- HEADER ANIMATION -->
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0ZWF4b3F4NnA4Z21rYXY0Yno2Z21xdGJxdHRpOGhqZ2Y5ZXoxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H7ZroEeuX5uXm/giphy.gif" width="100%" alt="Cyberpunk Boot"/>
 
-<!-- GREEN ASCII NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=9999999&pause=99999&color=90EE90&center=true&vCenter=true&width=800&height=60&lines=%E2%96%88%E2%96%88%E2%96%88+PRANAY+GOTTIMUKULA+%E2%96%88%E2%96%88%E2%96%88" alt="Name" />
+<br/>
+
+<div align="center">
+  <h1><code style="color: #0d1117;">&gt; PRANAY_GOTTIMUKULA █</code></h1>
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=90EE90&center=true&vCenter=true&multiline=true&width=600&height=60&lines=SYSTEM+ONLINE+%E2%96%BA+ALL+MODULES+LOADED;FULL-STACK+ARCHITECT+%3A%3A+AI+EXPLORER+%3A%3A+IIT+INDORE" alt="Subtitle" />
 
@@ -28,7 +30,7 @@
 
 ---
 
-## 🟢 `// SYSTEM.LOG`
+## `# SYSTEM.LOG`
 
 ```bash
 $ whoami --verbose
@@ -39,12 +41,14 @@ $ whoami --verbose
 ```
 [●] CORE.DEV     ──▶  Architecting high-concurrency e-commerce systems & robust full-stack apps
 [●] INTELLIGENCE ──▶  Agentic RAG, LLM integrations, intelligent data pipelines
+[●] ENVIRONMENT  ──▶  Strict Linux, optimized via Cursor & Antigravity AI
+[●] AUXILIARY    ──▶  Sound design synthesis (FL Studio) + algorithmic market analysis
 [●] STATUS       ──▶  ONLINE & DEPLOYING
 ```
 
 ---
 
-## 🔋 `// TECH_STACK.EXE`
+## `# TECH_STACK.EXE`
 
 ```bash
 $ cat /proc/stack --list-modules
@@ -64,11 +68,18 @@ $ cat /proc/stack --list-modules
 
 ---
 
-## 📡 `// LIVE_TELEMETRY`
+## `# LIVE_TELEMETRY`
 
 ```bash
-$ fetch --endpoint=github/metrics --user=Pranay-Gottimukula
+$ fetch --endpoint=github/metrics --user=Pranay-Gottimukula --from=2025-01-01 --to=2025-12-31
 ```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pranay-Gottimukula&show_icons=true&include_all_commits=false&count_private=true&theme=dark&hide_border=true&title_color=90ee90&icon_color=90ee90&text_color=a9b2c3&bg_color=0d1117&show=prs_merged,prs_merged_percentage&custom_title=Pranay+Gottimukula+%7C+2025+Stats&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-Gottimukula&layout=compact&theme=dark&hide_border=true&title_color=90ee90&text_color=a9b2c3&bg_color=0d1117&custom_title=Language+Distribution" width="48%" />
+
+</div>
 
 <br/>
 
@@ -90,7 +101,7 @@ $ fetch --endpoint=github/metrics --user=Pranay-Gottimukula
 
 ---
 
-## ⚙️ `// ACTIVE_MODULES`
+## `# ACTIVE_MODULES`
 
 ```bash
 $ ps aux --filter=status:active --sort=impact
